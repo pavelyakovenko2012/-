@@ -1,2 +1,7 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿// Пример про Машу
+
+// Начало
+// Ввод данных
+// Условие
+// Вывод данных
+// Конец
